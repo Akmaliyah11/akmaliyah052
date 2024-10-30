@@ -9,6 +9,7 @@ package si_regpagi.pkg23176007.latihan18.kelipatan;
  * @author 
  * Nama              : Akmaliyah
  * NIM               : 23176007
+ * Kelas             : PBO12
  * Prodi             : Sistem Informasi
  * Deskripsi Program : Program ini berisi program untuk menampilkan Kelipatan
  */
